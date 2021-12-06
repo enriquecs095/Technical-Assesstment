@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Assesstment
-build_property.ProjectDir = c:\Users\enrik\Documents\GitHub\Technical-Interview\Assesstment\Assesstment\
+build_property.ProjectDir = /workspace/Technical-Assesstment/Assesstment/Assesstment/

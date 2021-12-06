@@ -1,12 +1,24 @@
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\bin\Debug\net5.0\Assesstment.deps.json
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\bin\Debug\net5.0\Assesstment.dll
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\bin\Debug\net5.0\ref\Assesstment.dll
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\bin\Debug\net5.0\Assesstment.pdb
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.csproj.AssemblyReference.cache
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.AssemblyInfoInputs.cache
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.AssemblyInfo.cs
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.csproj.CoreCompileInputs.cache
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.dll
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\obj\Debug\net5.0\ref\Assesstment.dll
-C:\Users\enrik\Documents\varsity challenge\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.pdb
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/bin/Debug/net5.0/Assesstment.deps.json
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/bin/Debug/net5.0/Assesstment.dll
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/bin/Debug/net5.0/ref/Assesstment.dll
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/bin/Debug/net5.0/Assesstment.pdb
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.csproj.AssemblyReference.cache
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.AssemblyInfoInputs.cache
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.AssemblyInfo.cs
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.csproj.CoreCompileInputs.cache
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.dll
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/obj/Debug/net5.0/ref/Assesstment.dll
+C:/Users/enrik/Documents/varsity challenge/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.pdb
+/workspace/Technical-Assesstment/Assesstment/Assesstment/bin/Debug/net5.0/Assesstment.deps.json
+/workspace/Technical-Assesstment/Assesstment/Assesstment/bin/Debug/net5.0/Assesstment.dll
+/workspace/Technical-Assesstment/Assesstment/Assesstment/bin/Debug/net5.0/ref/Assesstment.dll
+/workspace/Technical-Assesstment/Assesstment/Assesstment/bin/Debug/net5.0/Assesstment.pdb
+/workspace/Technical-Assesstment/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.csproj.AssemblyReference.cache
+/workspace/Technical-Assesstment/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Technical-Assesstment/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.AssemblyInfoInputs.cache
+/workspace/Technical-Assesstment/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.AssemblyInfo.cs
+/workspace/Technical-Assesstment/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.csproj.CoreCompileInputs.cache
+/workspace/Technical-Assesstment/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.dll
+/workspace/Technical-Assesstment/Assesstment/Assesstment/obj/Debug/net5.0/ref/Assesstment.dll
+/workspace/Technical-Assesstment/Assesstment/Assesstment/obj/Debug/net5.0/Assesstment.pdb
